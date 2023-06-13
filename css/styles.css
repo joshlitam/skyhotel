@@ -1,0 +1,55 @@
+
+
+.navbar-inner {
+    background: transparent;
+}
+
+.nav-link {
+    color: white;
+}
+
+.bg-brown {
+    background-color: rgb(170, 120, 57);
+}
+
+.carousel .carousel-item img {
+    max-height: 768px;
+    min-width: auto;
+  }
+
+.check-in-section {
+    background-color: hsla(60, 7%, 3%, 0.5);
+    color: white;
+}
+
+.carousel-caption {
+    background-color: hsla(60, 7%, 3%, 0.5);
+    top: 50%;
+    bottom: auto;
+}
+
+/* room features */
+
+.features {
+    border: none;
+}
+
+/* rates */
+.card-rate {
+    background-color: hsla(192, 42%, 58%, 0.6);
+    color: white;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card-rate-subtitle {
+    color: hsl(199, 100%, 50%);
+}
+
+.footer {
+    list-style: none;
+}
